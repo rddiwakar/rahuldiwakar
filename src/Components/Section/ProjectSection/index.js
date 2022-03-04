@@ -13,7 +13,7 @@ h1{
 `
 const ProjectSection = () => {
     return (
-        <ProjectArea>
+        <ProjectArea id='projects'>
             <h1>Some of my projects are given below :-</h1>
             <br />
             <hr />

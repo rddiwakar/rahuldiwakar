@@ -16,7 +16,7 @@ div p, blockquote{
 `
 const Footer = () => {
     return (
-        <FooterSection>
+        <FooterSection id='footer'>
             <div>
                 <h1>Let's work together...</h1>
                 <blockquote>How do you take your coffee?</blockquote>

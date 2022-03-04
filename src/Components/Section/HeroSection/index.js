@@ -18,7 +18,7 @@ div p{
 `
 const HeroSection =()=>{
     return(
-        <Hero>
+        <Hero id='welcome-section'>
             <div>
                 <h1>Hi, I am Rahul Diwakar</h1>
                 <p> a Web Developer</p>

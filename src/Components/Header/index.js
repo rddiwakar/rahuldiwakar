@@ -18,7 +18,7 @@ const Header = () => {
     return (
         <Heading>
             <ul className='navbar'>
-                <li><a>Home</a></li>
+                <li><a href='#'>Home</a></li>
                 <li><a href="#welcome-section">About</a></li>
                 <li><a href="#projects">Work</a></li>
                 <li><a href="#footer">Contact</a></li>
