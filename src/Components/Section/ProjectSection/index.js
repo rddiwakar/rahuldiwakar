@@ -15,8 +15,6 @@ const ProjectSection = () => {
     return (
         <ProjectArea id='projects'>
             <h1>Some of my projects are given below :-</h1>
-            <br />
-            <hr />
 
             <CardSection 
                 heading='HTML and CSS Projects'

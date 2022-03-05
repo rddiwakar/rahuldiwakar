@@ -22,6 +22,7 @@ h1{
 function CardSection({heading, data}) {
     return (
         <CardArea >
+             <hr />
             <h1>{heading}</h1>
             <div className='cardwrapper'>
                 {
@@ -35,7 +36,7 @@ function CardSection({heading, data}) {
                     })
                 }
             </div>
-            <hr />
+           
         </CardArea>
     )
 }
